@@ -54,6 +54,8 @@ The last two bytes are 0x87EE - which identifies this as an Apple device.
     You should have received a copy of the GNU General Public License
     along with this program.  If not, see <http://www.gnu.org/licenses/>.
 */
+
+
 #include <inttypes.h>
 #include <avr/io.h>
 #include "WProgram.h"
