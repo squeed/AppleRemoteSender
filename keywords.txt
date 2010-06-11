@@ -1,0 +1,9 @@
+AppleRemoteSender	KEYWORD1
+set_remote_id KEYWORD2
+send KEYWORD2
+menu KEYWORD2
+play KEYWORD2
+right KEYWORD2
+left KEYWORD2
+up KEYWORD2
+down KEYWORD2
